@@ -1,9 +1,9 @@
 ## Screen captures: ##
 
   * This is the main dialog box for the script.  (Note:  Some of the instructions listed are quite company specific and may not apply to you.)
-![https://altium-designer-addons.googlecode.com/svn/trunk/XIA_Release_Manager/docs/v1.8.10_screen_capture1.jpg](https://altium-designer-addons.googlecode.com/svn/trunk/XIA_Release_Manager/docs/v1.8.10_screen_capture1.jpg)
+![https://raw.githubusercontent.com/Altium-Designer-addons/scripts-libraries/master/XIA_Release_Manager/docs/v1.8.10_screen_capture1.jpg](https://raw.githubusercontent.com/Altium-Designer-addons/scripts-libraries/master/XIA_Release_Manager/docs/v1.8.10_screen_capture1.jpg)
   * This is what the summary looks like after successfully completing generating outputs for all but fabrication, packaging assembly files, and doing release-and-tag for assembly.
-![https://altium-designer-addons.googlecode.com/svn/trunk/XIA_Release_Manager/docs/v1.8.10_screen_capture2.jpg](https://altium-designer-addons.googlecode.com/svn/trunk/XIA_Release_Manager/docs/v1.8.10_screen_capture2.jpg)
+![https://raw.githubusercontent.com/Altium-Designer-addons/scripts-libraries/master/XIA_Release_Manager/docs/v1.8.10_screen_capture2.jpg](https://raw.githubusercontent.com/Altium-Designer-addons/scripts-libraries/master/XIA_Release_Manager/docs/v1.8.10_screen_capture2.jpg)
 
 ## WHAT THIS SCRIPT WILL DO: ##
 
